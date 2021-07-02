@@ -1,0 +1,14 @@
+{
+  "name": "package-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christian Authmann",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+	  "build": "ts-auto-guard --export-all --project tsconfig.json"
+  },
+  "dependencies": {
+    "ts-auto-guard": "^1.0.0-alpha.24"
+  }
+}

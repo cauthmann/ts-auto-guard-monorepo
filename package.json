@@ -1,0 +1,8 @@
+{
+  "name": "ts-auto-guard-monorepo",
+  "version": "1.0.0",
+  "author": "Christian Authmann",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": ["package-a", "package-b"]
+}
